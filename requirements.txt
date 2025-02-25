@@ -1,0 +1,5 @@
+fastapi
+boto3
+psycopg2
+python-dotenv
+
